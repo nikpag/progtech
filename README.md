@@ -1,5 +1,9 @@
+# Programming Techniques
+
 **School:** National Technical University of Athens\
-**Department:** Electrical and Computer Engineering\
-**Course:** Programming Techniques\
-**Semester:** 2nd (March 2019 - June 2019)\
+**Department:** Electrical & Computer Engineering\
+**Semester:** 2nd\
 **Languages:** C++
+
+This course focuses on more advanced programming concepts using C++.  
+The exercise descriptions are in Greek.
